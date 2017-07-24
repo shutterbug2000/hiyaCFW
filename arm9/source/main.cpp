@@ -224,7 +224,7 @@ int main( int argc, char **argv) {
 
 			LoadScreen();
 			
-			for (int i = 0; i < 60*2; i++) { swiWaitForVBlank(); }
+			for (int i = 0; i < 60*3; i++) { swiWaitForVBlank(); }
 		}
 
 		runNdsFile("/BOOTLOADER.NDS", 0, NULL);

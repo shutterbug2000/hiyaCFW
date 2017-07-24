@@ -5,5 +5,5 @@ World's FIRST Nintendo DSi CFW!
 Nothing to see here... yet.
 
 # Credits
-- Apache Thunder: Application.
+- Apache Thunder, NoCash, StuckPixel, Shutterbug2000, and Gericom.
 - Robz8: Logo graphic, and settings screen.
